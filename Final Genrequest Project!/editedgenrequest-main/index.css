@@ -1,0 +1,80 @@
+body{
+    background-image: url("../images/genrequestbackground.gif");
+    background-size: cover;
+}
+
+input[type="button" i] {
+    font-size: 10px;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    background-color: #F8C8DC;
+    cursor: pointer;
+    border-color: #F8C8DC;
+    display: inline-block;
+    transition-duration: 0.4s;
+}
+
+
+button{
+    margin-left: 800px;
+    margin-top: 60px;
+    font-size: 20px;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    background-color: #C8A2C8;
+    cursor: pointer;
+    border-color: #C8A2C8;
+    display: inline-block;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+button:hover{
+    background-color: #F8C8DC;
+    color: #80956d;
+}
+
+p{
+    font-family: 'Press Start 2P', cursive;
+    color: #80956d;
+    font-size: 20px;
+    margin-left: 350px;
+    margin-top: 45px;
+}
+
+h2{
+    font-family: 'Press Start 2P', cursive;
+    color: #80956d;
+    font-size: 10px;
+    margin-top: 20px;  
+}
+
+marquee{
+    font-family: 'Press Start 2P', cursive;
+    color: #80956d;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+audio{
+    width: 300px;
+    height: 54px;
+    margin-top: 90px;
+}
+
+a:-webkit-any-link {
+    color: #F8C8DC;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+div#label-container{
+    color: white;
+    background-color: #80956d;
+    margin-left: 800px;
+    margin-top: 60px;
+    font-size: 20px;
+    display: inline-block;
+    font-family: 'Press Start 2P', cursive;
+}
+
